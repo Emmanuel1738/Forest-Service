@@ -1,1 +1,26 @@
-# Created by .ignore support plugin (hsz.mobi)
+.gradle/5.2.1/vcsMetadata-1/
+build/generated/
+build/tmp/
+target/Wildlife-Tracker-1.0-jar-with-dependencies.jar
+target/Wildlife-Tracker-1.0.jar
+target/archive-tmp/
+target/classes/Animal.class
+target/classes/App.class
+target/classes/DB.class
+target/classes/EndangeredAnimal.class
+target/classes/NormalAnimal.class
+target/classes/Sightings.class
+target/classes/public/images/frida-bredesen-LNSIGPuZXIg-unsplash.jpg
+target/dependency/
+target/generated-sources/
+target/generated-test-sources/
+target/heroku/
+target/mvn-dependency-list.log
+target/test-classes/
+gradlew
+gradlew.bat
+settings.gradle
+.idea
+.gradle
+build
+gradle# Created by .ignore support plugin (hsz.mobi)
