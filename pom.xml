@@ -9,9 +9,6 @@
     <version>1.0</version>
 
     <dependencies>
-        <!-- We need to list out ALL dependencies our project needs. If you have dependencies not listed here, but sure to add them -->
-        <!--        postgresql-octagonal-91962   -->
-        <!--       postgresql-rugged-07962 test-->
         <dependency>
             <groupId>com.sparkjava</groupId>
             <artifactId>spark-core</artifactId>
@@ -73,7 +70,6 @@
                         <descriptorRef>jar-with-dependencies</descriptorRef>
                     </descriptorRefs>
                     <archive>
-                        <!-- Change this to YOUR main class name if different. Usually, it will be App. -->
                         <manifest>
                             <mainClass>App</mainClass>
                         </manifest>
@@ -86,8 +82,7 @@
                 <version>2.0.3</version>
                 <configuration>
                     <jdkVersion>1.8</jdkVersion>
-                    <!-- Change this to YOUR application name! -->
-                    <appName>porini</appName>
+                    <appName>porini254</appName>
                     <processTypes>
                         <web>java -jar target/Wildlife-Tracker-1.0-jar-with-dependencies.jar</web>
                     </processTypes>

@@ -32,7 +32,8 @@ Open your terminal, and type in psql. Then type the following
        * \c wildlife_tracker;
        * CREATE TABLE animals (id SERIAL PRIMARY KEY, ranger_name VARCHAR, animal_name VARCHAR,health VARCHAR, age VARCHAR, location VARCHAR);
        * CREATE TABLE sightings (id SERIAL PRIMARY KEY, ranger_name VARCHAR, animal_name VARCHAR,health VARCHAR, age VARCHAR, location VARCHAR);
- 
+ ## Live Link
+     https://porini254.herokuapp.com/ 
  ### Technologies Used
      
 * HTML
